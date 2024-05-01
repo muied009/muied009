@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)]
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Md. Muied Hossain</h1>
 <h3 align="center">A passionate Native Android Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://developer.android.com/static/images/mad/mad-header.gif>
