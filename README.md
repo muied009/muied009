@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muied009&label=Profile%20views&color=0e75b6&style=flat" alt="muied009" /> </p>
 
-- 🌱 I’m **Jr. Flutter Developer in a renowned company in Bangladesh**
+- 🌱 I’m a **Jr. Flutter Developer in a renowned company in Bangladesh**
 
 - 💬 Ask me about **Android , Flutter**
 
